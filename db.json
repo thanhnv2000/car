@@ -5,10 +5,8 @@
       "name":"Lamborghini Aventador SVJ",
       "price":1000,
       "images":"https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/1-lamborghini-aventador-svj-2019-rt-hero-front.jpg?itok=OtqNqRot",
-      "descrition":"",
+      "descrition":""
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+
 }
